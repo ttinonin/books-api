@@ -20,6 +20,8 @@ Then install the required modules:
 pip install -r requirements.txt
 ```
 
+## Endpoints
+
 ### Books
 
 - GET `/books` retrieve all books created.
